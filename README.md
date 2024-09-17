@@ -34,7 +34,7 @@ ssh -i path/to/your/keypair.pem ubuntu@public address
  ![Screenshot (338)](https://github.com/user-attachments/assets/d95b0f45-045c-4670-ac9b-89a68b57084d)
 The instance is connected
 
-## Update package index install LAMP Stack tools
+## Update package index and install LAMP Stack
 1. update package
  ``` bash
 Sudo apt update -y
